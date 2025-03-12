@@ -5,6 +5,7 @@ A clean, user-friendly, and responsive web application that empowers users to cr
 ---
 ## 🚀 Demo
 https://snehasaha1101.github.io/Todolistweb/
+
 Below are some demo screenshots of the application:
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/feb0f2bb-9e53-4953-8afd-658b82b043ba" />
